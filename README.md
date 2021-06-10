@@ -2,7 +2,7 @@
 評估模型 計算 Accuracy 、 Precision 、 Recall 、 F measure)
 GBDT 、 LightGBM 、 XGBoost 模型之結果比較
 
-
+![image](https://user-images.githubusercontent.com/39433277/121567655-6aecd600-ca51-11eb-83b7-97b2bdb8cafc.png)
 
 從比較表可以看出，
 三種模型的 accuracy都 接近 0.5 得到的 precision、
