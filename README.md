@@ -1,4 +1,4 @@
-# Fake-News-Detection-python-
+# Fake-News-Detection
 評估模型 計算 Accuracy 、 Precision 、 Recall 、 F measure)
 GBDT 、 LightGBM 、 XGBoost 模型之結果比較
 
